@@ -5,6 +5,8 @@
 
 This is a super light-weight lightbox to be easily inserted into any website. 
 
+[Demo](https://nathanwentworth.github.io/lightbox/)
+
 ## Installation
 
 1. Download this repo
