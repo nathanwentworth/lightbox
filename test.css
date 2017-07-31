@@ -1,0 +1,20 @@
+body {
+  margin: 8px;
+}
+
+img {
+  max-width: 100%;
+  margin: 8px;
+}
+
+.images {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.images img {
+  max-width: calc(20% - 16px);
+}
